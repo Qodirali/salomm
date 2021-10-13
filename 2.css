@@ -1,0 +1,27 @@
+.col-25{
+    float: left;
+    width: 150px;
+    
+}
+input[type=text],select{
+    width: 70%;
+    margin-bottom: 20px;
+    border-radius:5px;
+    margin-left: 20px;
+}
+.ota2{
+background-color: rgb(160, 171, 172);
+padding: 30px;
+}
+input[type=submit]{
+    background-color: rgb(34, 13, 223);
+    color: rgb(200, 221, 13);
+    float: right;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+}
+.ota{
+    width: 800px;
+}
